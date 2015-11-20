@@ -1,4 +1,5 @@
 <?php
+// test 123
 $this->startSetup();
 
 $footer_links = <<<HTML
